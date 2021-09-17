@@ -1,0 +1,19 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luclys/simple-web-cloud-computing-TD1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luclys/simple-web-cloud-computing-TD1/issues"
+  },
+  "homepage": "https://github.com/Luclys/simple-web-cloud-computing-TD1#readme"
+}
