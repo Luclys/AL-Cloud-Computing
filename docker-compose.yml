@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  web:
+    image: cloud:tp1-1
+    ports:
+      - "8080:8080"
+
+
+  #database:
+  #  image: postgres:13.4
+  #  environment:
+  #    - POSTGRES_PASSWORD=dev_password
+  #    - POSTGRES_USER=si5_sacc
+  #    - POSTGRES_DB=td_1
