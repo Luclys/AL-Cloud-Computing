@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node app.js"
   },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Luclys/simple-web-cloud-computing-TD1.git"
